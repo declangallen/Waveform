@@ -1,0 +1,10 @@
+name: ShinyWaveform
+title: ShinyWaveform
+account: declangallen
+server: shinyapps.io
+appId: 200712
+bundleId: 921215
+url: https://declangallen.shinyapps.io/ShinyWaveform/
+when: 1501451115.09002
+asMultiple: FALSE
+asStatic: FALSE
